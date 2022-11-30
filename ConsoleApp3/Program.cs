@@ -1,3 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using ConsoleApp3.Week5;
 
-Console.WriteLine("Hello, World!");
+Employee.EmployeeDetails();
